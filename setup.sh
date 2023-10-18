@@ -69,7 +69,7 @@ echo
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf JINNRAT
-        git clone https://github.com/alvinbaby/JINNRAT
+        git clone https://github.com/MKmk123github/DARKYRAT
         cd JINNRAT
         chmod +x *
         bash setup.sh
