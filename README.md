@@ -46,8 +46,8 @@ A cloud based remote android managment suite, powered by NodeJS
 ### install setup Termux
 
 ```
-git clone https://github.com/MKmk123github/JINNRAT
-cd JINNRAT
+git clone https://github.com/MKmk123github/DARKYRAT
+cd DARKYRAT
 bash setup.sh
 ```
 ### Run
