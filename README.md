@@ -91,5 +91,8 @@ bash setup.sh
   </div>
   <div class="column">
     <img src="https://github.com/MKmk123github/JINNRAT/blob/main/Files/14.jpg"
+     <div class="column">
+    <img src="https://github.com/MKmk123github/JINNRAT/blob/main/Files/18.jpg"
+  </div>
   </div>
 </div>
