@@ -1,5 +1,5 @@
 <p>
-<img src= "https://github.com/alvinbaby/JINNRAT/blob/main/Files/20220623_134705.png"
+<img src= "https://github.com/MKmk123github/JINNRAT/blob/main/Files/20220623_134705.png"
 </p>
 
 # version : [ v 1.02 ]
