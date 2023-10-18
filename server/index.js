@@ -6,7 +6,7 @@
 *  
 */
 
-console.log('JINNRAT Server Started ✅ \nhttp://localhost:22533 \nusername :  admin \npassword :  root');
+console.log('Create By DarkShubh ✅ \nhttp://localhost:22533 \nusername :  admin \npassword :  root');
 
 const
     express = require('express'),
