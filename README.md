@@ -39,11 +39,7 @@ A cloud based remote android managment suite, powered by NodeJS
 - View WiFi Networks (logs previously seen)
 - File Explorer & Downloader
 - Command Queuing
-- Built In APK Builder
-
-## tutorial video
-
-[ https://youtu.be/hprC4q9rkmY ]
+- Built In APK Builder]
 
 ---
 
