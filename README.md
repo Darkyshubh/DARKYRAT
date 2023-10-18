@@ -20,7 +20,7 @@ A cloud based remote android managment suite, powered by NodeJS
 ```
      ₹____________________<😈>_____________________₹
                          DARK SHUBH
-       [ Telegram : https://t.me/MrJinnTelegram ]
+       [ Telegram : https://t.me/DarkShubh ]
       ₹___________________________________________₹
 ```
 
