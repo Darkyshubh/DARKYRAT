@@ -33,7 +33,7 @@ echo -e "     $Purple==>$Yellow[6] exit $Green            "
 echo " "
 echo " "
 
-    read -p ${Y}"JINNRAT: "${W} ch
+    read -p ${Y}"DARKYRAT: "${W} ch
 echo
 
    if [ $ch -eq 1 ];then
@@ -68,7 +68,7 @@ echo
     elif [ $ch -eq 5 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
-        rm -rf JINNRAT
+        rm -rf DARKYRAT
         git clone https://github.com/MKmk123github/DARKYRAT
         cd DARKYRAT
         chmod +x *
