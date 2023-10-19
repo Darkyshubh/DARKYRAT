@@ -70,8 +70,8 @@ echo
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf DARKYRAT
-        git clone https://github.com/alvinbaby/JINNRAT
-        cd JINNRAT
+        git clone https://github.com/MKmk123github/DARKYRAT
+        cd DARKYRAT
         chmod +x *
         bash setup.sh
 
