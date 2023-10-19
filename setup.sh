@@ -70,7 +70,7 @@ echo
         cd $HOME
         rm -rf JINNRAT
         git clone https://github.com/MKmk123github/DARKYRAT
-        cd JINNRAT
+        cd DARKYRAT
         chmod +x *
         bash setup.sh
 
